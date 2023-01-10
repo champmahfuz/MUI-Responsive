@@ -1,4 +1,4 @@
-Visit our website [Car Hut](https://fanciful-sunshine-407ab3.netlify.app/).
+Visit our website [Champ Blog](https://fanciful-sunshine-407ab3.netlify.app/).
 
 - This is a bloging Site.
 - This is Only the UI design.
